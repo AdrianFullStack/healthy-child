@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Niño Sano</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="text_user_name">Nombre de usuario</string>
+    <string name="text_email">Correo</string>
+    <string name="text_password">Contraseña</string>
+    <string name="text_remember_password">Reescribir Contraseña</string>
+    <string name="text_sing_in">Iniciar Sesión</string>
+    <string name="text_sing_up">Regístrate</string>
+    <string name="text_sing_out">Cerrar Sesión</string>
+    <string name="text_register">Regístrate</string>
+    <string name="text_sing_in_here">Inicia sesión aquí</string>
+    <string name="text_have_account">No tienes una cuenta?</string>
+    <string name="text_already_have_account">Ya tienes una cuenta?</string>
+</resources>
